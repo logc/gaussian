@@ -1,6 +1,6 @@
 #lang info
 (define collection "gaussian")
-(define deps '("base"))
+(define deps '("base" "scribble-math"))
 (define build-deps '("scribble-lib" "racket-doc" "rackunit-lib"))
 (define scribblings '(("scribblings/gaussian.scrbl" ())))
 (define pkg-desc "Library of statistical functions")

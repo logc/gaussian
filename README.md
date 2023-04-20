@@ -1,3 +1,3 @@
 gaussian
 ========
-README text here.
+Library of statistical functions
